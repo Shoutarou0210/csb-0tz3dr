@@ -4,14 +4,14 @@
     "main.js.map": "https://shoutarou0210.github.io/csb-0tz3dr/static/js/main.f9925865.chunk.js.map",
     "runtime-main.js": "https://shoutarou0210.github.io/csb-0tz3dr/static/js/runtime-main.2e6d93ec.js",
     "runtime-main.js.map": "https://shoutarou0210.github.io/csb-0tz3dr/static/js/runtime-main.2e6d93ec.js.map",
-    "static/js/2.32f28d41.chunk.js": "https://shoutarou0210.github.io/csb-0tz3dr/static/js/2.32f28d41.chunk.js",
-    "static/js/2.32f28d41.chunk.js.map": "https://shoutarou0210.github.io/csb-0tz3dr/static/js/2.32f28d41.chunk.js.map",
+    "static/js/2.97bf91ec.chunk.js": "https://shoutarou0210.github.io/csb-0tz3dr/static/js/2.97bf91ec.chunk.js",
+    "static/js/2.97bf91ec.chunk.js.map": "https://shoutarou0210.github.io/csb-0tz3dr/static/js/2.97bf91ec.chunk.js.map",
     "index.html": "https://shoutarou0210.github.io/csb-0tz3dr/index.html",
-    "static/js/2.32f28d41.chunk.js.LICENSE.txt": "https://shoutarou0210.github.io/csb-0tz3dr/static/js/2.32f28d41.chunk.js.LICENSE.txt"
+    "static/js/2.97bf91ec.chunk.js.LICENSE.txt": "https://shoutarou0210.github.io/csb-0tz3dr/static/js/2.97bf91ec.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2e6d93ec.js",
-    "static/js/2.32f28d41.chunk.js",
+    "static/js/2.97bf91ec.chunk.js",
     "static/js/main.f9925865.chunk.js"
   ]
 }
